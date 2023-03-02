@@ -1,0 +1,1 @@
+export const productList = ["Tomato", "Potato", "Onions", "Leeks"];
